@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilhamhakim1205
-- 👀 I’m interested in game developer
+- 👀 I’m interested in Mobile Programming especially Android Developer
 - 🌱 I’m currently learning information technology
 
 
